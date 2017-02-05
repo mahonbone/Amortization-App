@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+.myList{
+    display: inline-block;
+}
+.myList li{
+    text-align: left;
+}
+table{
+   margin: 5px auto;
+   font-weight: bold;
+}
+td{
+    text-align: left;
+}
